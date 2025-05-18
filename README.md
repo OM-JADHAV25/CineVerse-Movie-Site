@@ -1,4 +1,4 @@
-#🎬 CineVerse - Movie Showcase Website
+## 🎬 CineVerse - Movie Showcase Website
 
 CineVerse is a fully static, responsive, and modern movie website created using React.js and Tailwind CSS, built primarily as a UI/UX showcase project. The site is designed to resemble platforms like IMDb, offering users an engaging interface to explore movie content visually without relying on any backend or database.
 
@@ -7,8 +7,12 @@ This project emphasizes frontend development, component reusability, animation, 
 ## 🔗 Live Demo
 
 👉 [View Live Site Here](https://cineverse-movie-site.onrender.com)
+⏳ Performance Notice:
+When accessing the live demo for the first time, please note that it may take a few seconds to fully load. This is a common behavior with static hosting platforms (like Render, Vercel, etc.) where inactive sites may "sleep" and require a short warm-up period on the initial request.
 
-#📖 Project Overview
+Once the site is fully loaded, all interactions — including movie browsing, detailed views, and search suggestions — will perform smoothly. We appreciate your patience!
+
+## 📖 Project Overview
 CineVerse provides an immersive experience for movie enthusiasts to browse through a curated set of movies, categorized by genre. The site simulates the feel of a real-world entertainment platform, and is built entirely on static movie data, organized within the project files. The project is intended to demonstrate UI/UX skills and frontend coding practices, and can be deployed easily as a static site.
 
 Key features include:
@@ -37,7 +41,7 @@ Responsive Design: Optimized for various screen sizes, ensuring a seamless exper
 
 Smooth UI interactions: Scrollable rows, hover overlays, and micro-interactions to elevate user engagement.
 
-#🎯 Purpose and Scope
+## 🎯 Purpose and Scope
 The CineVerse project was built to serve as:
 
 A portfolio project for showcasing frontend design and development capabilities
@@ -48,7 +52,7 @@ A Tailwind CSS practice project, demonstrating how utility-first styling can be 
 
 A template or starting point for converting a static concept into a dynamic movie-based application in the future
 
-#🧰 Technologies Used
+## 🧰 Technologies Used
 React.js: For building component-based, reactive user interfaces
 
 Tailwind CSS: For styling with utility-first classes and responsive design
@@ -59,11 +63,11 @@ React Router: To manage page navigation and routing
 
 Static Data (movies.js): For loading movie information without external APIs
 
-#💻 Project Behavior
+## 💻 Project Behavior
 This is a pure frontend project. All content is preloaded from static files, and no dynamic data fetching or database is used. The preview videos, images, and movie details are all referenced from locally stored assets and JavaScript objects. As such, it can be deployed on any static hosting platform without additional configuration.
 
 
-#🔔 Note:
+## 🔔 Note:
 
 This project is a fully static, frontend-only implementation built for UI demonstration purposes. There is no backend or live database integration, and all content is derived from pre-defined static data.
 
