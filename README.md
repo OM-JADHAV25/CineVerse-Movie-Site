@@ -7,6 +7,8 @@ This project emphasizes frontend development, component reusability, animation, 
 ## 🔗 Live Demo
 
 👉 [View Live Site Here](https://cineverse-movie-site.onrender.com)
+
+
 ⏳ Performance Notice:
 When accessing the live demo for the first time, please note that it may take a few seconds to fully load. This is a common behavior with static hosting platforms (like Render, Vercel, etc.) where inactive sites may "sleep" and require a short warm-up period on the initial request.
 
