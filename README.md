@@ -65,9 +65,6 @@ React Router: To manage page navigation and routing
 
 Static Data (movies.js): For loading movie information without external APIs
 
-## 💻 Project Behavior
-This is a pure frontend project. All content is preloaded from static files, and no dynamic data fetching or database is used. The preview videos, images, and movie details are all referenced from locally stored assets and JavaScript objects. As such, it can be deployed on any static hosting platform without additional configuration.
-
 
 ## 🔔 Note:
 
